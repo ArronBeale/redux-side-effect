@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-side-effect/static/css/main.52a86ea8.css",
+    "main.js": "/redux-side-effect/static/js/main.0dc84b37.js",
+    "index.html": "/redux-side-effect/index.html",
+    "main.52a86ea8.css.map": "/redux-side-effect/static/css/main.52a86ea8.css.map",
+    "main.0dc84b37.js.map": "/redux-side-effect/static/js/main.0dc84b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52a86ea8.css",
+    "static/js/main.0dc84b37.js"
+  ]
+}
