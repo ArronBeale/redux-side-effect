@@ -18,19 +18,19 @@ const DUMMY_PRODUCTS = [
     id: 'p3',
     price: 800,
     title: 'Low Flow Concentrator',
-    description: 'Low Flow',
+    description: 'Low Flow (0.1-1LPM)',
   },
   {
     id: 'p4',
     price: 900,
     title: 'Portable Oxygen Concentrator (POC)',
-    description: 'Compact portable oxygen concentrator',
+    description: 'A compact portable oxygen concentrator with shoulder strap.',
   },
   {
     id: 'p5',
     price: 1000,
     title: 'Transportable Oxygen Concentrator (TOC)',
-    description: 'transportable oxygen concentrator',
+    description: 'A transportable oxygen concentrator with built in trolley.',
   },
 ];
 
